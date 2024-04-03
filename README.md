@@ -1,5 +1,4 @@
 # SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model
-Mengming Li, Wenji Fang, Qijun Zhang and Zhiyao Xie, "SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model," [[paper]](https://arxiv.org/pdf/2401.13266.pdf)
 
 ## Abstract
   The development of architecture specifications is an initial and fundamental stage of the integrated circuit (IC) design process. Traditionally, architecture specifications are crafted by experienced chip architects, a process that is not only time-consuming but also error-prone. Mistakes in these specifications may significantly affect subsequent stages of chip design. Despite the presence of advanced electronic design automation (EDA) tools, effective solutions to these specification-related challenges remain scarce. Since writing architecture specifications is naturally a natural language processing (NLP) task, this paper pioneers the automation of architecture specification development with the advanced capabilities of large language models (LLMs).
