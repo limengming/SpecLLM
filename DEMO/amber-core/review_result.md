@@ -34,19 +34,17 @@ should be "than."
 
 # Chapter3
 **Typos:**
-1. Inconsistent capitalization and punctuation in instruction descriptions (e.g., "add adds two values" vs. "Exclusive OR performs a bitwise XOR of two values.").
-2. Some descriptions are missing punctuation at the end of sentences.
-3. Occasional missing spaces between words, such as in "theinstruction" or "registerand".
-
+1. Inconsistent capitalization and punctuation in instruction descriptions (e.g., some start with a capital letter and end with a period, while others do not).
+2. Occasional missing spaces between words in the descriptions.
+   
 **Inconsistencies/Contradictions:**
-1. The description of the 'p' flag in instructions like 'cmn' and 'cmp' is not consistent with its explanation in other parts of the document.
-2. Some instructions are described as not implemented in the Amber core, such as 'cdp' and 'ldc', which contradicts the purpose of an instructional set specification.
-3. Variations in the level of detail provided for different instructions; some have comprehensive descriptions, while others are very brief.
-
+1. Some instructions have detailed descriptions, while others have very brief or vague descriptions, leading to an uneven understanding of the instruction set.
+2. Certain instructions mention flags or modes (e.g., 'p' flag, User mode) without clear explanations, potentially causing confusion.
+   
 **Incomplete/Unclear:**
-1. Absence of a general introduction or overview of the instruction set's characteristics and design philosophy.
-2. Lack of comprehensive explanation for some instructions, leading to potential misunderstanding of their functionality.
-3. No information provided on instruction encoding or format, which is essential for understanding the assembly and execution of these instructions.
+1. The document lacks a general introduction or overview of the instruction set's characteristics and its design philosophy.
+2. Some instruction descriptions are too brief, lacking in-depth explanation of their operation and use cases.
+3. No information on instruction encoding or format is provided, which is critical for understanding how instructions are constructed and processed.
 
 # Chapter4
 **Typos:**
